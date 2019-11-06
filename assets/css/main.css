@@ -25,7 +25,7 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 /* For testing */
-	border: 1px solid lightgray;
+	/* border: 1px solid lightgray; */
 }
 
 article, aside, details, figcaption, figure,
