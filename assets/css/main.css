@@ -3358,3 +3358,19 @@ input, select, textarea {
 			}
 
 		}
+
+
+#main .inner-about p {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}		
+
+#main .inner .visit {
+	font-weight: bold;
+}
+
+
+i.fas.fa-portrait::before {
+	font-size: 4rem;
+}
